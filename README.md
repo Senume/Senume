@@ -74,27 +74,11 @@ Focused on production-grade automation systems using LLMs & Vision models:
 
 ---
 
-## 📈 GitHub Stats
-
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Senume&show_icons=true&theme=tokyonight" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Senume&theme=tokyonight" />
-</p>
-
----
-
-## 🎓 Education
-
-* **B.Tech AI – Amrita University (2020–2024)** – CGPA: 8.14
-
----
-
 ## ✉️ Connect with Me
 
-Portfolio (if available)
-LinkedIn: *(add link)*
+LinkedIn: *www.linkedin.com/in/itsmethushit* <br>
 Email: [thushitkumarr@gmail.com](mailto:thushitkumarr@gmail.com)
 
 ---
 
-*“I believe AI should be practical — solving real problems at scale, not just existing as research.”*
+*"If humans can explain it, AI can execute it....”*
